@@ -25,13 +25,13 @@ Non-trainable params: 0
 
 # Outputs
 
-![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/output/label_0.png)
+![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/outputs/label_0.png)
 
-![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/output/label_4.png)
+![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/outputs/label_4.png)
 
-![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/output/label_5.png)
+![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/outputs/label_5.png)
 
-![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/output/label_6.png)
+![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/outputs/label_6.png)
 
-![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/output/label_9.png)
+![alt text](https://github.com/montySaini25/DigitRecognizer/blob/master/outputs/label_9.png)
 
